@@ -1,5 +1,5 @@
 # 💫 About Me:
-MS in Analytics @ Georgia Institute of Technology. 
+MS in Analytics @ Georgia Tech. 
 
 Interested in applying ML in 2 areas: 
 
