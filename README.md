@@ -1,5 +1,5 @@
 # 💫 About Me:
-Current Analytics student at Georgia Institute of Technology. 
+MS in Analytics @ Georgia Institute of Technology. 
 
 Interested in applying ML in 2 areas: 
 
